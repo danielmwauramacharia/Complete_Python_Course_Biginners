@@ -1,4 +1,4 @@
-# for else loop in python
+# for...else loop in python
 success = False
 for number in range(3):
     print("Attempt")
