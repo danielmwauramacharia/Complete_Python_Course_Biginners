@@ -6,4 +6,5 @@ def mult(*numbers):
     return total
 
 
+print("The result is:")
 print(mult(2, 3, 4, 5))
