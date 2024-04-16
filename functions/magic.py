@@ -6,6 +6,3 @@ def magic_calculation(a, b, c):
     result = a * b
     result -= c
     return result
-
-
-print(magic_calculation(4, 3, 5))
